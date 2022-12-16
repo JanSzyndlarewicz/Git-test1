@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Some changes");
         int all;
         int DDD;
+        System.out.println("Raz dwa trzy");
     }
 }
