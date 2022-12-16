@@ -9,10 +9,11 @@ public class Main {
         int DDD;
         System.out.println("Raz dwa trzy");
 
-        System.out.println("dadsa");
+        System.out.println("dadsaa");
         int y = 3;
         System.out.println(x+y);
         int d;
+        d=5;
     }
 
 }
