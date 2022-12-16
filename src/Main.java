@@ -4,5 +4,7 @@ public class Main {
         int x = 5;
         System.out.println("Twp");
         System.out.println("dadsa");
+        int y = 3;
+        System.out.println(x+y);
     }
 }
