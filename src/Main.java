@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello bartek");
         int x = 5;
         System.out.println("Twp");
+        System.out.println("Some changes");
     }
 }
