@@ -4,5 +4,7 @@ public class Main {
         int x = 5;
         System.out.println("Twp");
         System.out.println("Some changes");
+        int all;
+        int DDD;
     }
 }
