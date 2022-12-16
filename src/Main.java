@@ -12,7 +12,7 @@ public class Main {
         System.out.println("dadsa");
         int y = 3;
         System.out.println(x+y);
-
+        int d;
     }
 
 }
